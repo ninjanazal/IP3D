@@ -1,0 +1,113 @@
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\TPF1.exe
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\TPF1.pdb
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\obj\x86\Debug\TPF1.exe
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\obj\x86\Debug\TPF1.pdb
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\Content\heightMap.xnb
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\bin\Windows\x86\Debug\Content\groundTexture.xnb
+D:\Documentos\Dropbox\ip3d\TPF1\TPF1\obj\x86\Debug\TPF1.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\obj\x86\Debug\TPF1.exe
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\obj\x86\Debug\TPF1.pdb
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\Content\groundTexture.xnb
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\Content\heightMap.xnb
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\TPF1.exe
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\TPF1.pdb
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documentos\Dropbox\ip3d\TPF1 - test\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\Content\groundTexture.xnb
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\Content\heightMap.xnb
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\TPF2.exe
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\TPF2.pdb
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\obj\x86\Debug\TPF2.exe
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\obj\x86\Debug\TPF2.pdb
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\Content\engine_diff_tex.xnb
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\Content\engine_diff_tex_0.xnb
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\Content\tank.xnb
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\Content\turret_alt_diff_tex.xnb
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\Content\turret_alt_diff_tex_0.xnb
+D:\Documentos\Dropbox\ip3d\TPF2\TPF1\bin\Windows\x86\Debug\Content\font.xnb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\Content\bullet.xnb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\Content\dust test.xnb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\Content\dust test_0.xnb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\Content\dustParticle.xnb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\Content\font.xnb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\Content\groundTexture.xnb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\Content\heightMap.xnb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\Content\engine_diff_tex.xnb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\Content\engine_diff_tex_0.xnb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\Content\tank.xnb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\Content\turret_alt_diff_tex.xnb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\Content\turret_alt_diff_tex_0.xnb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\TPF1.exe
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\TPF1.pdb
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\obj\x86\Debug\TPF1.exe
+D:\Documentos\Dropbox\ip3d\TPF3\TPF1\obj\x86\Debug\TPF1.pdb
